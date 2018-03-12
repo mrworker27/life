@@ -2,8 +2,6 @@
 
 using namespace std;
 
-// check git
-
 // Параметры мира
 
 const int PROGRAM_SIZE = 64;

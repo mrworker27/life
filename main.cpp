@@ -2,6 +2,7 @@
 
 using namespace std;
 
+// check git
 
 // Параметры мира
 
